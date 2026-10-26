@@ -1,0 +1,6 @@
+{
+  "name": "کنکوریار هوشمند",
+  "description": "دستیار جامع برنامه‌ریزی کنکور، تایمر مطالعه، آزمون‌ساز هوشمند، تحلیل عملکرد و مشاور تحصیلی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
